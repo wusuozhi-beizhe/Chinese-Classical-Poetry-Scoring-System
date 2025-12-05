@@ -1,4 +1,15 @@
 # Chinese-Classical-Poetry-Scoring-System
 一个“一体一轨，多轨并行”的古诗词（古体诗、绝句、律诗、词、打油诗）智能化评分系统，包含精密仲裁机制（一票否决与诗魂认证）。
 ## 📚 文档导航
-1. **[poetry_scoring_system_v9.md](poetry_scoring_system_v9.md)** - **核心可读文档（推荐）**。这是为在线浏览和快速查阅优化的Markdown版本，包含完整系统规则、仲裁流程与范例。
+
+### 核心文档
+1. **[poetry_scoring_system_v9.md](poetry_scoring_system_v9.md)** - **核心可读文档（推荐）**
+   - 为在线浏览和快速查阅优化的Markdown版本
+   - 包含完整系统规则、仲裁流程与范例
+
+### Word文档
+2. **[古诗词评分系统【第九版】6000字版](古诗词评分系统【第九版】6000.docx)** - 简短版本（Word文档，需下载查看）
+3. **[古诗词评分系统【第九版】15000字版](古诗词评分系统【第九版】15000.docx)** - 完整版本（Word文档，需下载查看）
+
+### 项目信息
+4. **[LICENSE](LICENSE)** - 许可证文件
